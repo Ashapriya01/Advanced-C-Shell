@@ -1,10 +1,10 @@
-# Custom Shell - OS Mini Project
+# Custom Shell 
 
 A modular, feature-rich interactive shell implementation in C that supports built-in commands, process management, I/O redirection, and signal handling.
 
 ## Author
-**Name:** Eswar Kumar Anantha 
-**Roll No:** 2023102011
+**Name:** Asha Priya Gangarapu 
+
 
 ## Features
 
